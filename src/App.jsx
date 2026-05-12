@@ -1,5 +1,5 @@
-import { useState, useEffect } from ‘react’;
-import { Printer, RotateCcw, FileText } from ‘lucide-react’;
+import { useState, useEffect } from'react';
+import { Printer, RotateCcw, FileText } from 'lucide-react';
 
 export default function App() {
 // ===== STATE =====
